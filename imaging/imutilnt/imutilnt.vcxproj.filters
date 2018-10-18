@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1119e76f-87a8-4825-8a1c-5b9227e1046d}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;hpj;bat;for;f90</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7524fce8-301f-4e63-9d99-18ecfabd2c69}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;fi;fd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{cd023058-459d-449d-a062-79331503f11f}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;cnt;rtf;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BOX.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CALIB.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHECKROI.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COMP_CON.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COMP_MIS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COMP_S.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COMPR.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CONV.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COPIA.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D_HISTO.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DIAM.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DIS_SEGM.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FLIP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HAAR_S.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HISTO.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="INTERS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L_SEGMEN.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LOC_VAL.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="max_dist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MED_FIL.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MORF.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PIC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PROF_GEN.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PROFILE.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUNCT.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUNCTCO.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RETTA_IN.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RPI.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SLIMCOMP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SOBEL.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SOBELR.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="STRE_LUT.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TRAS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UNCOMP_S.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="TROVA_S.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CALC_PER.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CROS_COR.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FLIP_L.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FLIP_S.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GRAM.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MALLOC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MASSIMO.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MASSIMO2.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MEDIAN.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MINIMO.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MINIMO2.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MPARSE.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NORMAL.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ORDINA.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="portio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SMOOTH_R.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SPOT_DET.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SUB_SAMP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TIMER.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8fabcdf6-5a64-4e74-a631-1964aeca093e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6b9c7c6f-854b-47b3-a192-72a7ca9d5c01}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
